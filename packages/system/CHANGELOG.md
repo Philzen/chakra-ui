@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.2.1
+
+### Patch Changes
+
+- Updated dependencies
+  [[`6c15ec2c2`](https://github.com/chakra-ui/chakra-ui/commit/6c15ec2c2a32a36ecc2d169308379a6825619543)]:
+  - @chakra-ui/utils@2.0.3
+  - @chakra-ui/color-mode@2.1.1
+  - @chakra-ui/styled-system@2.2.2
+
 ## 2.2.0
 
 ### Minor Changes

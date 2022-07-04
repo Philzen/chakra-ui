@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.0.3
+
+### Patch Changes
+
+- [#6257](https://github.com/chakra-ui/chakra-ui/pull/6257)
+  [`6c15ec2c2`](https://github.com/chakra-ui/chakra-ui/commit/6c15ec2c2a32a36ecc2d169308379a6825619543)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  get-focusables causes excessive repaint due to computed style calls
+
 ## 2.0.2
 
 ### Patch Changes
