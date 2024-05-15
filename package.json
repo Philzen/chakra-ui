@@ -14,7 +14,7 @@
   "scripts": {
     "prepare": "husky install",
     "clean:emotion-types": "rimraf node_modules/@emotion/core/types",
-    "postinstall": "pnpm clean:emotion-types",
+    "postinstall": "yarn clean:emotion-types",
     "build:tokens": "chakra-cli tokens packages/theme/src/index.ts --out packages/styled-system/dist/types/theming.types.d.ts",
     "build:prop-docs": "pnpm typedocs && pnpm --filter=*props-docs build",
     "build": "pnpm tsx scripts/build/main.ts --prod --dts",
